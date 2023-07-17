@@ -4,4 +4,9 @@
 
 Each power is useable during 10 seconds and allows to help the players to solve the level 
 
-![Growing power](https://www.notion.so/Finn-Flint-76b5598dd35b4720abf897415c1ad31b?pvs=4#3f27da7a327b41dcaa2629c28c9b960f) : The player grow up
+<img src="https://github.com/Oazin/FinnAndFlint/blob/master/Assets/Power%20UP/Sprite/PowerUpBig.png" alt="Growing power" width="30"/> : The player grow up </br>
+<img src="https://github.com/Oazin/FinnAndFlint/blob/master/Assets/Power%20UP/Sprite/PowerUpSmall.png" alt="Reduction power" width="30"/> : The player grow down </br>
+<img src="https://github.com/Oazin/FinnAndFlint/blob/master/Assets/Power%20UP/Sprite/PowerUpFlash.png" alt="Fast power" width="30"/> : The player grow become fast </br>
+<img src="https://github.com/Oazin/FinnAndFlint/blob/master/Assets/Power%20UP/Sprite/PowerUpSlowMotion.png" alt="Slow motion power" width="30"/> : The player become slower </br>
+<img src="https://github.com/Oazin/FinnAndFlint/blob/master/Assets/Power%20UP/Sprite/PowerUpGravity.png" alt="Gravity power" width="30"/> : The player changes of gravity </br>
+
