@@ -1,1 +1,3 @@
-# Finn And Flint
+# Finn & Flint
+
+## Power Up 
